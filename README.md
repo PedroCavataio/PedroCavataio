@@ -1,7 +1,8 @@
 # Pedro_Cavataio
 
-  
-![image](https://github.com/PedroCavataio/Pedro_Cavataio_Readme/assets/126481572/9e137d44-4634-4c08-9444-77bff879e875)
+  ![image](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/6c8a6686-a059-4703-bd8e-29fc34247cc7)
+
+
 
 <br />
 
