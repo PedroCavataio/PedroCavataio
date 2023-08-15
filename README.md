@@ -1,7 +1,7 @@
 # Pedro_Cavataio
 
 ---
-[![image](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/93c3a4d4-2351-4d95-878f-7e47de2c9010)](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif
 
 
 
