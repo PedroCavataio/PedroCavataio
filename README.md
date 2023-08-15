@@ -6,17 +6,17 @@
 
 
 <div align="center">
-  <h1 style="font-size: 86px;">Pedro_Cavataio</h1>
+  
  
 </div
 
 
----
+---<h1 style="font-size: 96px;">Pedro_Cavataio</h1>
 
 
 
 
-# ** 📍 ¿Quién Soy?** 
+<h2>** 📍 ¿Quién Soy?**</h2>
 
   ¡Hola! Soy Pedro y estoy emocionado por adentrarme en la industria del desarrollo. 
 
