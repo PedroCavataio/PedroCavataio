@@ -1,3 +1,20 @@
+
+# Pedro_Cavataio
+
+<style>
+  .profile-container {
+    background-color: #f2f2f2; /* Color de fondo que desees */
+    padding: 20px; /* Espacio alrededor del contenido */
+    text-align: center;
+  }
+
+  .profile-image {
+    width: 100%;
+    max-width: 100%;
+  }
+</style>
+
+
 <div style="width: 100%; text-align: center;">
   <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%; max-width: 100%;">
 </div>
