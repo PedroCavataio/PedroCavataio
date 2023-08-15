@@ -32,7 +32,7 @@
 
 # ** 📍 ¿Qué tecnologías uso?** 
 
-
+<br />
 📋FRONTEND:
 
 📌HTML5, CSS3 y JavaScript: Fundamentos para crear la estructura, estilo e interacción en las páginas web.
@@ -47,7 +47,7 @@
 <br />
 📌Axios: Biblioteca para realizar solicitudes HTTP desde el cliente.
 <br />
-
+<br />
 📋BACKEND:
 
 📌Node.js: Entorno de tiempo de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
@@ -62,11 +62,11 @@
 <br />
 📌API REST: Creación y consumo de APIs RESTful para intercambio de datos entre el frontend y el backend.
 <br />
-
+<br />
 
 📋 HERRAMIENTAS Y PRÁCTICAS ADICIONALES:
 
-📌Estilo y diseño (UX : UI) 
+📌Estilo, diseño, experiencia (UX : UI) 
 <br />
 📌GitHub: control de versiones. Fundamentales para colaborar en proyectos de desarrollo.
 
