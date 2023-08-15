@@ -1,10 +1,8 @@
+![97b295_3349dbcd7e284899be41466def110e11~mv2](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095)
+
 # Pedro_Cavataio
 
 ---
-
-![97b295_3349dbcd7e284899be41466def110e11~mv2](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095)
-
-
 
 
 
