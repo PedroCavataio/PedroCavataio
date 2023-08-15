@@ -77,6 +77,9 @@
 📌Estilo, diseño, experiencia (UX : UI) 
 <br />
 📌GitHub: control de versiones. Fundamentales para colaborar en proyectos de desarrollo.
+<br />
+<br />
+
 
 <br />
 
