@@ -36,25 +36,38 @@
 📋FRONTEND:
 
 📌HTML5, CSS3 y JavaScript: Fundamentos para crear la estructura, estilo e interacción en las páginas web.
+<br />
 📌React: Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+<br />
 📌Redux: Sistema de manejo de estado para aplicaciones React más grandes.
+<br />
 📌Sass o CSS-in-JS: Para estilos más avanzados y mantenibles.
+<br />
 📌Webpack: Herramienta para empaquetar y administrar recursos en la aplicación web.
+<br />
 📌Axios: Biblioteca para realizar solicitudes HTTP desde el cliente.
+<br />
 
 📋BACKEND:
 
 📌Node.js: Entorno de tiempo de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
+<br />
 📌Express.js: Marco de aplicación web para Node.js que facilita la creación de API y rutas.
+<br />
 📌Base de datos:Bases de datos SQL (como MySQL o PostgreSQL).
+<br />
 📌ORM (Object-Relational Mapping) o ODM (Object-Document Mapping): Herramientas que facilitan la interacción con bases de datos desde el código.
+<br />
 📌Autenticación y autorización: Implementación de sistemas de registro y autenticación.
+<br />
 📌API REST: Creación y consumo de APIs RESTful para intercambio de datos entre el frontend y el backend.
+<br />
 
 
 📋 HERRAMIENTAS Y PRÁCTICAS ADICIONALES:
 
 📌Estilo y diseño (UX : UI) 
+<br />
 📌GitHub: control de versiones. Fundamentales para colaborar en proyectos de desarrollo.
 
 <br />
