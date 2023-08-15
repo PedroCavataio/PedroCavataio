@@ -1,5 +1,3 @@
-
-  
 <div style="width: 100%; text-align: center;">
   <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%; max-width: 100%;">
 </div>
@@ -10,20 +8,12 @@
 </div
 
 
-
-
-
-
-
 <h2>** 📍 ¿Quién Soy?**</h2>
 
   ¡Hola! Soy Pedro y estoy emocionado por adentrarme en la industria del desarrollo. 
-
-  
 <br />
 
----
-  
+--- 
 
 
 <h2>** 📍 ¿Qué  hago?**</h2>
@@ -91,4 +81,4 @@
 <br />
 
 ---
-</style>
+
