@@ -34,6 +34,7 @@
 
 <br />
 📋FRONTEND:
+<br />
 
 📌HTML5, CSS3 y JavaScript: Fundamentos para crear la estructura, estilo e interacción en las páginas web.
 <br />
@@ -49,6 +50,7 @@
 <br />
 <br />
 📋BACKEND:
+<br />
 
 📌Node.js: Entorno de tiempo de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
 <br />
@@ -65,6 +67,7 @@
 <br />
 
 📋 HERRAMIENTAS Y PRÁCTICAS ADICIONALES:
+<br />
 
 📌Estilo, diseño, experiencia (UX : UI) 
 <br />
