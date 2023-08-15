@@ -34,7 +34,9 @@
 <br />
 
 <h2># ** 📍 ¿Qué tecnologías uso?**</h2>
-
+<br />
+<br />
+<br />
 <h3>📋FRONTEND:</h3>
 <br />
 
@@ -49,6 +51,7 @@
 📌Webpack: Herramienta para empaquetar y administrar recursos en la aplicación web.
 <br />
 📌Axios: Biblioteca para realizar solicitudes HTTP desde el cliente.
+<br />
 <br />
 <br />
 <h3>📋BACKEND:</h3>
@@ -66,8 +69,8 @@
 <br />
 📌API REST: Creación y consumo de APIs RESTful para intercambio de datos entre el frontend y el backend.
 <br />
-
-
+<br />
+<br />
 <h3>📋 HERRAMIENTAS Y PRÁCTICAS ADICIONALES:</h3>
 <br />
 
