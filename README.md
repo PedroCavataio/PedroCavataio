@@ -30,17 +30,9 @@
 
 <h2>** 📍 ¿A dónde me dirijo?**</h2>
 
-  Lic.Como Lic. en Gestión de Organizaciones y Full Stack Developer, estoy entusiasmado por sumergirme en la industria del desarrollo. Aunque mi experiencia previa no se encuentra en este sector, considero que, por un lado, mi gran sensibilidad en Estilo y diseño (UX : UI) y mi amplia trayectoria profesional me brinda una valiosa perspectiva y habilidades transferibles. Estoy comprometido con el aprendizaje continuo y ansioso por contribuir al crecimiento y éxito de los proyectos en los que participe. ¡Estoy listo para asumir nuevos desafíos y marcar la diferencia en el mundo del desarrollo!equipo.
+  Como Lic. en Gestión de Organizaciones y Full Stack Developer, estoy entusiasmado por sumergirme en la industria del desarrollo. Aunque mi experiencia previa no se encuentra en este sector, considero que, por un lado, mi gran sensibilidad en Estilo y diseño (UX : UI) y mi amplia trayectoria profesional me brinda una valiosa perspectiva y habilidades transferibles. Estoy comprometido con el aprendizaje continuo y ansioso por contribuir al crecimiento y éxito de los proyectos en los que participe. ¡Estoy listo para asumir nuevos desafíos y marcar la diferencia en el mundo del desarrollo!.
 <br />
 <br />
-<br />
-
-
-<h2>** 📍 ¿A dónde me dirijo?**</h2>
-
-    Como Lic. en Gestión de Organizaciones y Full Stack Developer, estoy entusiasmado por sumergirme en la industria del desarrollo. Aunque mi experiencia previa no se encuentra en este sector, considero que, por un lado, mi gran sensibilidad en Estilo y diseño (UX : UI) y mi amplia trayectoria profesional me brinda una valiosa perspectiva y habilidades transferibles. Estoy comprometido con el aprendizaje continuo y ansioso por contribuir al crecimiento y éxito de los proyectos en los que participe. ¡Estoy listo para asumir nuevos desafíos y marcar la diferencia en el mundo del desarrollo!.
-<br />
-<br />  
 <br />
 
 
