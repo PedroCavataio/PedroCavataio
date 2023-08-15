@@ -35,8 +35,7 @@
 
 <h2># ** 📍 ¿Qué tecnologías uso?**</h2>
 <br />
-<br />
-<br />
+
 <h3>📋FRONTEND:</h3>
 <br />
 
