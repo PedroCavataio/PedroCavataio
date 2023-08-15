@@ -21,7 +21,7 @@
 
 <h2>** 📍 ¿Qué  hago?**</h2>
 
-  Lic. en Gestión de Organizaciones y con más de 20 años de experiencia en áreas de gestión, orientadas al desarrollo y logro de objetivos. Desde enero de 2016, tengo la responsabilidad de supervisar un equipo de 30 personas. En un entorno altamente dinámico y con un exigente estándar de calidad, las operaciones de caja a mi cargo alcanzan un número superior a las 747,000 transacciones anuales. Además de mi rol habitual como Jefe de Estacionamiento, he tenido la oportunidad de formarme como Coach de Agilidad con Cynthia Rubinstein, lo que me ha permitido desempeñarme como coach de agilidad en AA2000, en el programa "Gestión Ágil de Equipos". 
+   Desde 2016, tengo la responsabilidad de supervisar un equipo de 30 personas en el Aeropuerto Jorge Newbery. Este entorno es altamente dinámico y tiene un exigente estándar de calidad, con operaciones de caja que abarcan más de 747,000 transacciones anuales. Además de mi papel habitual como Jefe de Estacionamiento, he tenido la oportunidad de formarme y ejercer como Coach de Agilidad , en el programa "Gestión Ágil de Equipos". 
   Soy adaptable a entornos multiculturales, poseo buenas habilidades de comunicación y un fuerte espíritu de equipo.
 <br />
 <br />
@@ -29,7 +29,9 @@
 
 <h2>** 📍 ¿A dónde me dirijo?**</h2>
 
-  Como Lic. en Gestión de Organizaciones y Full Stack Developer, estoy entusiasmado por sumergirme en la industria del desarrollo. Aunque mi experiencia previa no se encuentra en este sector, considero que, por un lado, mi gran sensibilidad en Estilo y diseño (UX : UI) y mi amplia trayectoria profesional me brinda una valiosa perspectiva y habilidades transferibles. Estoy comprometido con el aprendizaje continuo y ansioso por contribuir al crecimiento y éxito de los proyectos en los que participe. ¡Estoy listo para asumir nuevos desafíos y marcar la diferencia en el mundo del desarrollo!.
+  Soy un apasionado Full Stack Developer con una perspectiva única, a pesar de mi experiencia no tecnológica, aportando un enfoque diverso y creativo al desarrollo. Mi compromiso con el aprendizaje constante y el éxito de los proyectos me impulsa a superar desafíos y aportar soluciones innovadoras. Con una Licenciatura en Gestión de Organizaciones y más de 20 años liderando equipos en entornos dinámicos y de alta transacción, he cultivado habilidades de liderazgo, resolución de problemas y toma de decisiones estratégicas.
+
+Mi trayectoria incluye el rol de Coach de Agilidad y la creación de programas de control de gestión, lo que demuestra mi capacidad para adaptarme y aportar nuevas perspectivas. Soy un comunicador efectivo y un colaborador entusiasta, listo para trabajar en equipo y contribuir al logro de objetivos comunes. Mi objetivo es aprovechar mi experiencia diversa y mis habilidades técnicas en un papel como desarrollador Full Stack, contribuyendo al crecimiento y éxito de proyectos desafiantes en un entorno colaborativo. Estoy emocionado por las oportunidades que el mundo del desarrollo tiene para ofrecer y estoy comprometido a marcar una diferencia significativa en este campo dinámico y en constante evolución.
 <br />
 <br />
 <br />
