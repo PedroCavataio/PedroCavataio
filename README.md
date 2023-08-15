@@ -1,28 +1,3 @@
-# Pedro_Cavataio
-
-<style>
-  body {
-    background-color: #9b9b9b; /* Color de fondo que desees */
-  }
-
-  .profile-container {
-    margin: 0 auto;
-    max-width: 800px; /* Ajusta el ancho máximo según tus preferencias */
-    padding: 20px;
-    text-align: center;
-    background-color: white; /* Color de fondo para el contenido */
-    border-radius: 10px; /* Bordes redondeados para el contenido */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra alrededor del contenido */
-  }
-
-  .profile-image {
-    width: 100%;
-    max-width: 100%;
-  }
-
-
-
-
 
 <div style="width: 100%; text-align: center;">
   <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%; max-width: 100%;">
