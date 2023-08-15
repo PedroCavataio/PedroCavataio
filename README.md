@@ -1,11 +1,5 @@
 # Pedro_Cavataio
 
-  ![image](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/6c8a6686-a059-4703-bd8e-29fc34247cc7)
-
-
-
-<br />
-
 ---
 
 # ** 📍 ¿Quién Soy?** 
