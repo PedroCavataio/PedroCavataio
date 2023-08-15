@@ -21,7 +21,7 @@
 
 <h2>** 📍 ¿Qué  hago?**</h2>
 
-   Desde 2016, tengo la responsabilidad de supervisar un equipo de 30 personas en el Aeropuerto Jorge Newbery. Este entorno es altamente dinámico y tiene un exigente estándar de calidad, con operaciones de caja que abarcan más de 747,000 transacciones anuales. Además de mi papel habitual como Jefe de Estacionamiento, he tenido la oportunidad de formarme y ejercer como Coach de Agilidad , en el programa "Gestión Ágil de Equipos". 
+   Desde 2016, tengo la responsabilidad de supervisar un equipo de 30 personas en el Aeropuerto Jorge Newbery. Este entorno es altamente dinámico y tiene un exigente estándar de calidad, con operaciones de caja que superan las 747,000 transacciones anuales. Además de mi papel habitual como Jefe de Estacionamiento, he tenido la oportunidad de formarme y ejercer como Coach de Agilidad , en el programa "Gestión Ágil de Equipos". 
   Soy adaptable a entornos multiculturales, poseo buenas habilidades de comunicación y un fuerte espíritu de equipo.
 <br />
 <br />
