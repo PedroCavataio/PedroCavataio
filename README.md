@@ -4,7 +4,7 @@
 
 
 <div align="center">  
- ---<h1 style="font-size: 96px;">Pedro_Cavataio</h1>
+ <h1 style="font-size: 96px;">Pedro_Cavataio</h1>
 </div>
 
 ---
@@ -12,9 +12,8 @@
 <h2>** 📍 ¿Quién Soy?**</h2>
 
   ¡Hola! Soy Pedro y estoy emocionado por adentrarme en la industria del desarrollo. 
-<br />
 
---- 
+ 
 
 
 <h2>** 📍 ¿Qué  hago?**</h2>
@@ -22,7 +21,7 @@
   Lic. en Gestión de Organizaciones y con más de 20 años de experiencia en áreas de gestión, orientadas al desarrollo y logro de objetivos. Desde enero de 2016, tengo la responsabilidad de supervisar un equipo de 30 personas. En un entorno altamente dinámico y con un exigente estándar de calidad, las operaciones de caja a mi cargo alcanzan un número superior a las 747,000 transacciones anuales. Además de mi rol habitual como Jefe de Estacionamiento, he tenido la oportunidad de formarme como Coach de Agilidad con Cynthia Rubinstein, lo que me ha permitido desempeñarme como coach de agilidad en AA2000, en el programa "Gestión Ágil de Equipos". 
   Soy adaptable a entornos multiculturales, poseo buenas habilidades de comunicación y un fuerte espíritu de equipo.
 
-<br />
+
 
 ---
 
