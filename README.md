@@ -1,6 +1,11 @@
 # Pedro_Cavataio
 
 ---
+![image](https://github.com/PedroCavataio/PedroCavataio/assets/126481572/93c3a4d4-2351-4d95-878f-7e47de2c9010)
+
+
+
+
 
 # ** 📍 ¿Quién Soy?** 
 
@@ -34,6 +39,7 @@
 
 <br />
 📋FRONTEND:
+<br />
 <br />
 
 📌HTML5, CSS3 y JavaScript: Fundamentos para crear la estructura, estilo e interacción en las páginas web.
