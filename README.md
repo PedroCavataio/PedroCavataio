@@ -29,7 +29,7 @@
 
 <h2>** 📍 ¿A dónde me dirijo?**</h2>
 
-  Soy un apasionado Full Stack Developer con una perspectiva única, a pesar de mi experiencia no tecnológica, aportando un enfoque diverso y creativo al desarrollo. Mi compromiso con el aprendizaje constante y el éxito de los proyectos me impulsa a superar desafíos y aportar soluciones innovadoras. Con una Licenciatura en Gestión de Organizaciones y más de 20 años liderando equipos en entornos dinámicos y de alta transacción, he cultivado habilidades de liderazgo, resolución de problemas y toma de decisiones estratégicas.
+  Soy un apasionado Full Stack Developer con una perspectiva única, enfoque diverso y creativo al desarrollo. Mi compromiso con el aprendizaje constante y el éxito de los proyectos me impulsa a superar desafíos y aportar soluciones innovadoras. Con una Licenciatura en Gestión de Organizaciones y más de 20 años liderando equipos en entornos dinámicos y de alta transacción, he cultivado habilidades de liderazgo, resolución de problemas y toma de decisiones estratégicas.
 
 Mi trayectoria incluye el rol de Coach de Agilidad y la creación de programas de control de gestión, lo que demuestra mi capacidad para adaptarme y aportar nuevas perspectivas. Soy un comunicador efectivo y un colaborador entusiasta, listo para trabajar en equipo y contribuir al logro de objetivos comunes. Mi objetivo es aprovechar mi experiencia diversa y mis habilidades técnicas en un papel como desarrollador Full Stack, contribuyendo al crecimiento y éxito de proyectos desafiantes en un entorno colaborativo. Estoy emocionado por las oportunidades que el mundo del desarrollo tiene para ofrecer y estoy comprometido a marcar una diferencia significativa en este campo dinámico y en constante evolución.
 <br />
