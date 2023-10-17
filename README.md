@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-  <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%; max-width: 100%;">
+  <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%">
 </div>
 
 <div align="center">  
