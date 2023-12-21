@@ -1,8 +1,7 @@
 
 <div align="center">
   <!-- <img src="https://github.com/PedroCavataio/PedroCavataio/assets/126481572/d664b139-417b-42cd-a914-28762df4f095" alt="Profile Image" style="width: 100%;"> -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmishmanners%2Fhow-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66&psig=AOvVaw1SZhev3McAOE1ABD5RGesZ&ust=1703258184186000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCG0cTioIMDFQAAAAAdAAAAABAD" alt="Profile Image" style="width: 100%;">
- 
+  
 </div>
 
 <div align="center">  
